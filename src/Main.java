@@ -12,5 +12,10 @@ public class Main {
 
         Division div = new Division();
         System.out.println(div.calculateDiv(10, 2));
+
+        retangleArea area = new retangleArea();
+        System.out.println(area.calculateArea(5, 10));
+
+        
     }
 }
